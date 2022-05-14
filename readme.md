@@ -1,3 +1,22 @@
+Ini kira-kira hasil dari Quizz 1 kita. Untuk cara melihat hasil nya bisa:
+
+1. Lakukan [Project Setup](#project-setup)
+2. Kemudian bisa buka disini [http://localhost:3000/api-docs](http://localhost:3000/api-docs)
+
+## Edit Swagger Documentation
+
+Untuk edit/update Dokumentasi API menggunakan swagger, kalian bisa langsung edit di projek ini, pada file [todo-api-documentation.json](./todo-api-documentation.json).
+
+Atau bisa juga edit di swagger editor, dengan cara:
+
+1. Buat dokumentasi bisa langsung di [https://editor.swagger.io/](https://editor.swagger.io/).
+2. Setelah dokumentasi selesai dibuat, lalu pilih **File** > **Import File** > pilih file [todo-api-documentation.json](./todo-api-documentation.json) yang ada di projek kita tadi.
+3. Dan kalian bisa merubah Dokumentasi API tadi sesuai kebutuhan.
+4. Setelah selesai, kalian bisa lakukan export kembali dengan cara, pilih **File** > **Convert and Save as JSON**
+5. Selanjut nya file hasil export nya, kalian bisa copy kan lagi ke projek ini, dan Dokumentasi API [http://localhost:3000/api-docs](http://localhost:3000/api-docs) sudah berubah.
+
+<hr>
+
 Ini adalah repository RESTful API yang menjadi basis untuk teman-teman membuat `Documentation API dengan Swagger`. Ikuti petunjuk di bawah dengan seksama untuk memastikan teman-teman dapat menjalankan RESTful API.
 
 ## Project setup
